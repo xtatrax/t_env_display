@@ -1,0 +1,2 @@
+cmake .. -DCMAKE_INSTALL_PREFIX='../lib/GLFW'
+cmake --build . --target install
